@@ -1,6 +1,8 @@
  #  Bonjour, moi c'est Kenza 👋
  ## Etudiante en Master  Bioinformatique et Biologie des Systèmes 🧬💻
-Je suis passionnée par la bioinformatique, plus précisement par le décryptage des données biologiques et le développement d'outils pour résoudre des problématiques concrètes. Ce que j'apprécie, c'est mêler programmation, biostatistiques et biologie structurale pour explorer les mystères des interactions moléculaires et des annotations génomiques.
+Passionnée par la bioinformatique, j’adore transformer des données biologiques complexes en informations exploitables grâce à la programmation et aux analyses avancées. Mon objectif ? Concevoir des outils et approches innovants pour mieux comprendre le vivant ! 
+
+Ce que j'apprécie, c'est mêler programmation, biostatistiques et biologie structurale pour explorer les mystères des interactions moléculaires et des annotations génomiques.
 
 ## 💡 Ce que j'aime explorer : 
 ♦ 🧬 **Les réseaux biologiques** : comprendre les interactions complexes et les voies moléculaires
@@ -31,11 +33,14 @@ Je suis passionnée par la bioinformatique, plus précisement par le décryptage
 
 ♦**📈 Graphes & Réseaux Biologiques** :  
   - **Analyse et visualisation de réseaux biologiques** (**NetworkX, Cytoscape**).  
-  - **Exploration des relations fonctionnelles dans Gene Ontology** et extraction des hiérarchies ontologiques.  
-  - **Étude des interactions et métriques de centralité pour mieux comprendre la connectivité biologique**.  
+  - **Étude des relations fonctionnelles** dans Gene Ontology et des interactions clés via des métriques de centralité
 
 ♦**⚙️ Outils & Workflow** : **SQL, Java, NetworkX, Cytoscape, HMMER, BLAST, InterProScan, GeneMark, scan_for_matches, MDAnalysis**, manipulation et intégration de données biologiques à grande échelle.  
 
 ## 🎯 Ce que je recherche : 
 Je suis actuellement à la recherche d'un stage en bioinformatique à partir de juin. Mon objectif est de participer à des projets innovants, que ce soit en génomique, biologie structurale ou analyse de données biologiques. 
+
+## 📧 Me contacter 🌍 : 
+🔗 Linkedin : www.linkedin.com/in/kenza-benachenhou-960091329 
+📧 Email : kenzabena02@gmail.com
 
